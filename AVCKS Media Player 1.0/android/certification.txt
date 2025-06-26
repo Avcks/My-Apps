@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the AVCKS Media Player 1.0
+---------------------------------------------------
+
+app_name - 						AVCKS Media Player
+app_alias - 					avcksmediaplayer
+app_author_name - 				Aum Sorathiya
+app_author_organizational - 	AVCKS
+app_author_organization - 		AVCKS
+app_author_locality - 			AVCKS
+app_author_state - 				Gujarat
+app_author_country - 			India
+app_password - 					Password1015
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 26th of June 2025 05:24:07 AM
+
+https://webintoapp.com
+---------------------------------------------------
+
